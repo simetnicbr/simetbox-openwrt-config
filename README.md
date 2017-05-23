@@ -4,7 +4,7 @@ Biblioteca para ler configuração do SIMETBox
 
 ## Instalação
 
-No caso do uso do [SIMETBox Feed](https://github.com/simetnicbr/simetbox-openwrt-feed.git), para os projetos OpenWRT e LEDE, esta biblioteca é baixada e usada de forma automática. Caso se queira compilar o projeto [simetbox-openwrt-base](https://github.com/simetnicbr/simetbox-openwrt-feed.git) deve-se compilar este projeto separadamente:
+No caso do uso do [SIMETBox Feed](https://github.com/simetnicbr/simetbox-openwrt-feed.git), para os projetos OpenWRT e LEDE, esta biblioteca é baixada e usada de forma automática. Caso se queira compilar o projeto [simetbox-openwrt-base](https://github.com/simetnicbr/simetbox-openwrt-base.git) deve-se compilar este projeto separadamente:
 
 ```bash
 git clone https://github.com/simetnicbr/simetbox-openwrt-base.git
