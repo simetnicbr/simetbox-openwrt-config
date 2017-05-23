@@ -21,7 +21,7 @@ make install
 
 ## History
 
-2015-05-23 - Primeiro release
+2017-05-23 - Primeiro release
 
 ## Credits
 
